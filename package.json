@@ -4,7 +4,7 @@
 	"description": "Dynamic Kawaii Pink",
 	"repository": "https://github.com/imnyang/dynamic-kawaii",
 	"publisher": "imnyang",
-	"version": "0.0.3-3",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.96.0"
 	},
