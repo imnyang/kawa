@@ -1,10 +1,10 @@
 {
-	"name": "dynamic-kawaii",
-	"displayName": "Dynamic Kawaii",
-	"description": "Dynamic Kawaii Pink",
-	"repository": "https://github.com/imnyang/dynamic-kawaii",
+	"name": "kawa",
+	"displayName": "Kawa",
+	"description": "Kawaii Dark Pink Theme",
+	"repository": "https://github.com/imnyang/kawa",
 	"publisher": "imnyang",
-	"version": "0.0.5",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.96.0"
 	},
@@ -14,9 +14,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Dynamic Kawaii",
+				"label": "Kawa",
 				"uiTheme": "vs-dark",
-				"path": "./themes/dynamic-kawaii-color-theme.json"
+				"path": "./themes/kawa-color-theme.json"
 			}
 		]
 	},
